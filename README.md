@@ -32,8 +32,9 @@ The breast cancer classification project leveraging neural networks and deep lea
 
 
 # What I learned !![image](https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png)
-![image](https://user-images.githubusercontent.com/90462533/225627856-d3441caf-177e-424c-9e5e-a97d63b669a6.png)
-![image](https://user-images.githubusercontent.com/90462533/225627905-368bbdbe-8ab2-40e0-8744-503c0600d4b0.png)
+![1](https://github.com/pynamudinikhil2003/Breast-Cancer-Detection-by-using-One-API-Open/assets/130238287/936f7d4e-80ca-4a68-b8b8-c2edffe055d0)
+![2](https://github.com/pynamudinikhil2003/Breast-Cancer-Detection-by-using-One-API-Open/assets/130238287/41c55b79-6bd1-4d28-a95f-e1df88e1e684)
+
 
 ✅Developing Applications with Intel oneDAL: Intel oneAPI Data Analytics Library (oneDAL) accelerates big data analysis by providing optimized algorithmic building blocks for all stages of data analytics, including preprocessing, transformation, analysis, modeling, validation, and decision-making, across batch, online, and distributed processing modes. The library enhances data ingestion and algorithmic computation to boost throughput and scalability.
 
